@@ -6,7 +6,7 @@
 
 :world_map:  Fast learner, self-taught and self-directed. I love digging into new technologies and diving deeper into what I already use.
 
-:heart:  Linux user for 10+ years; free/libre/open-source software enthusiast, contributor, and advocate.
+:heart:  Long-time Linux user; free/libre/open-source software enthusiast, contributor, and advocate.
 
 :student:  Currently learning: **Django**, **Seaborn**.
 
