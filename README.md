@@ -8,7 +8,7 @@
 
 :heart:  Long-time Linux user; free/libre/open-source software enthusiast, contributor, and advocate.
 
-:student:  Currently learning: **Django**, **Seaborn**.
+:student:  Currently learning: **TensorFlow 2.0**.
 
 :monocle_face:  Interested in: **machine learning**, **data analysis/visualization**, **embedded software**, **assembly language**.
 
