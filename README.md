@@ -8,7 +8,7 @@
 
 :heart:  Long-time Linux user; free/libre/open-source software enthusiast, contributor, and advocate.
 
-:student:  Currently learning: **TensorFlow 2.0**.
+:student:  Currently learning: **Clojure**.
 
 :monocle_face:  Interested in: **machine learning**, **data analysis/visualization**, **embedded software**, **assembly language**.
 
