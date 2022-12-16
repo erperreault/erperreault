@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Eric Perreault.
 
-### I am an aspiring software developer in the DC metro area.
+### I am a software developer in the DC metro area.
 
 ---
 
